@@ -1,0 +1,15 @@
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.csproj.AssemblyReference.cache
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.AssemblyInfoInputs.cache
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.AssemblyInfo.cs
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.csproj.CoreCompileInputs.cache
+C:\Users\keato\source\repos\POE\bin\Debug\net6.0\POE.exe
+C:\Users\keato\source\repos\POE\bin\Debug\net6.0\POE.deps.json
+C:\Users\keato\source\repos\POE\bin\Debug\net6.0\POE.runtimeconfig.json
+C:\Users\keato\source\repos\POE\bin\Debug\net6.0\POE.dll
+C:\Users\keato\source\repos\POE\bin\Debug\net6.0\POE.pdb
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.dll
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\refint\POE.dll
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.pdb
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\POE.genruntimeconfig.cache
+C:\Users\keato\source\repos\POE\obj\Debug\net6.0\ref\POE.dll
